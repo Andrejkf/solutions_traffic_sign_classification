@@ -374,20 +374,11 @@ Links
 [image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
 [image15]: ../new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
 [image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
-[image17]: ./other_images/4.png "model 4"
+[image17]: ./new_images_original/27_1.jpg "Label: 27,Pedestrians"
 
 
 
 
-plt.figure()
-read_image('./new_images_original/20_1_flipped.jpeg')
-plt.title('Label: 19,Dangerous curve to the left. Flipped version of previous image.')
-
-plt.figure()
-read_image('./new_images_original/27_1.jpg')
-plt.title('Label: 27,Pedestrians')
-
-plt.show()
 
 
 
@@ -402,5 +393,5 @@ plt.show()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mjg3NTAyNl19
+eyJoaXN0b3J5IjpbMTkzNzM3MDQ1MF19
 -->
