@@ -307,6 +307,7 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 * Image 9,  with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
+Here are the results of the prediction:
 expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
 new_predicted values: \   [ 2 41 14 18 40 41 25 24 29  9\]
 
@@ -410,5 +411,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMTQ4OTA3XX0=
+eyJoaXN0b3J5IjpbLTgyNjE0MTIzXX0=
 -->
