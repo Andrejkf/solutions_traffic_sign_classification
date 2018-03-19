@@ -386,10 +386,10 @@ Links
 [image12]: ./other_images/report_6.png "Final model trained"
 
 [image13]: ./other_images/report_original_9_1.png  "Label: 9,No passing"
-[image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
-[image15]: ./new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
-[image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
-[image17]: ./new_images_original/27_1.jpg "Label: 27,Pedestrians"
+[image14]: ./other_images/report_original_9_1.png "Label: 14,Stop"
+[image15]: ./other_images/report_original_9_1.png "Label: 20,Dangerous curve to the right."
+[image16]: ./other_images/report_original_9_1.png "Flipped version of previous image"
+[image17]: ./other_images/report_original_9_1.png "Label: 27,Pedestrians"
 
 
 [image18]: ./other_images/report_3_2_1.png  "Label: 2,Speed limit (50km/h)"
@@ -405,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4Njc1MjZdfQ==
+eyJoaXN0b3J5IjpbLTc3MDQ0MDU4OF19
 -->
