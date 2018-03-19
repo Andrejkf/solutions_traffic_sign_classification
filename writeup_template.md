@@ -245,7 +245,7 @@ With the following hyper parameters values:
 * Learning rate : 0.001 (I did not used decaying learning rate because [Adam optimizer computes individual adaptive learning rate](https://arxiv.org/pdf/1412.6980.pdf).
 * Dropout probability = 0.1 ( Keep probability 0.9).
 
-**Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
+
 
 ##### Description about how the final model was trained.
 The following considerations were made during training stage:
@@ -261,8 +261,12 @@ The following considerations were made during training stage:
 * The objective function selected was the mean error rate between logits and labels.
 *After training was finished, model parameters where saved for further model performance evaluation.
 
-The final mdoel results were:
+**Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
+The final model results were:
+-   training set accuracy of 
+-   validation set accuracy of ?
+-   test set accuracy of ?
 
 
 
@@ -421,5 +425,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDM1NTE4OF19
+eyJoaXN0b3J5IjpbOTMxMzQyMDY4XX0=
 -->
