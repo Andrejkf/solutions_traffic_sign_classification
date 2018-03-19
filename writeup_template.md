@@ -340,6 +340,7 @@ In addition, author does not compromise to any conclusion about this attempt to 
 
 #### Step 3.3: Output Top 5 Softmax Probabilities For Each Image Found on the Web
 
+In this subsection top softmax probabilities for each new image found on the web are displayed.
 
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
@@ -405,5 +406,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA5OTY2ODBdfQ==
+eyJoaXN0b3J5IjpbLTQ3MTY0NTkxOF19
 -->
