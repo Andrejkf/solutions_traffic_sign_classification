@@ -280,7 +280,7 @@ Also, dropout layers can help to distribute knowledge across the network. [Read 
 
 Five (5) pictures of German traffic signs were downloaded from the web using google browser and other five (5) where downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news). Then the pretrained model was used to predict the traffic sign type.
 
-
+#### Step3.1: Load and Output the Images
 
 
 
@@ -376,5 +376,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTExODU0NDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NjI2MTIwODhdfQ==
 -->
