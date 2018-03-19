@@ -273,7 +273,7 @@ Bellow the final model setup training and validation accuracy are displayed:
 
 It is important to note that convolutional layers were selected because cross-correlations done at receptive fields generate activation maps that detect image patterns. [Read this paper for further information](https://arxiv.org/abs/1311.2901).
 
-Also, dropout layers can help to distribute knowledge a
+Also, dropout layers can help to distribute knowledge thorughout the network. [Read this paper for further information](
 
 
 
@@ -428,5 +428,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTAzODM5N119
+eyJoaXN0b3J5IjpbLTE0NjM4MjIxODldfQ==
 -->
