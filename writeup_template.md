@@ -160,11 +160,6 @@ Below are shown images for tunning process from step 2 to step7. On the last ima
 
 Finally, the main goal was to get a model as simple as possible. For that reason, the following architecture was chosen:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;border-top-width:1px;border-bottom-width:1px;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;border-top-width:1px;border-bottom-width:1px;}
-.tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -402,5 +397,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjMxMDg5XX0=
+eyJoaXN0b3J5IjpbLTIzODg4NTE5Ml19
 -->
