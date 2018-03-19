@@ -322,7 +322,7 @@ new_predicted values: \   [ 2 41 14 18 40 41 25 24 29  9\]
 | 25,Road work     			| 25,Road work 										|
 | 27,Pedestrians				| 24,Road narrows on the right											|
 | 29,Bicycles crossing      		| 29,Bicycles crossing Road					 				|
-| 35,Ahead only			| Slippery Road  
+| 35,Ahead only			| 9,No passing  
 
 
 
@@ -410,5 +410,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTUzMjgyXX0=
+eyJoaXN0b3J5IjpbNDcwMTQ4OTA3XX0=
 -->
