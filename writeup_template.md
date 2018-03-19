@@ -252,7 +252,8 @@ To train the model the initial batch size was 128 but changed to 256 with out an
 * The training set was shuffled every epoch.
 * The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy did not imporved after many epochs. So a value of 0.001 was set up.
 * Then the number of epochs was set to a high number like 100 and 150 and compared training vs validation accuracy.
-* After noticing high tendency of the network to overfit training data. Probability of droping out weights was set to 0.5, 0.6, 0.7,0.8 and 0.9 and noticed that better performance was with low dropout levels. Fina
+* After noticing high tendency of the network to overfit training data. Probability of droping out weights was set to 0.5, 0.6, 0.7,0.8 and 0.9 and noticed that better performance was with low dropout levels, that is, with high probability of keeping the same weights. So a dropout=0.1 (keep probabilty = 0.9) was chosen.
+* I had noticed that the network is still 
 
 
 
@@ -411,5 +412,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTE1NzQ5NV19
+eyJoaXN0b3J5IjpbMTY1MDMzNzIxOF19
 -->
