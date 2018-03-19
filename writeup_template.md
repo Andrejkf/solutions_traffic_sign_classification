@@ -83,11 +83,11 @@ Here I will consider the *rubric points* individually and describe how I address
 
 ---
 ### Files submitted
-* A [writeup](https://github.com/Andrejkf/solutions_traffic_sign_classification/blob/master/writeup_template.md) report in markdown that corresponds to this particular file you are reading right now.
-*  A file named [**solution_Traffic_Sign_Classifier.ipynb**](./) with the step by step detailed explanation of solution aproach and code for this project in a  Jupyter IPython Notebook.
+* A [writeup](https://github.com/Andrejkf/solutions_traffic_sign_classification) report in markdown that corresponds to this particular file you are reading right now.
+*  A file named [**solution_Traffic_Sign_Classifier.ipynb**](https://github.com/Andrejkf/solutions_traffic_sign_classification) with the step by step detailed explanation of solution aproach and code for this project in a  Jupyter IPython Notebook.
 * ### todo * A file named **solution_Traffic_Sign_Classifier.ipynb** with an HTML output of the code.
 * A folder named **parameter_tunning** with 7 python files corresponding each model tested during architecture design, in case that you want to check it out.
-*  A full [repository](./) with all files described in the *content of this repository* sections of this document.
+*  A full [repository](https://github.com/Andrejkf/solutions_traffic_sign_classification) with all files described in the *content of this repository* sections of this document.
 
 
 
@@ -227,5 +227,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQxMzgwXX0=
+eyJoaXN0b3J5IjpbLTE4Mjk2NDkwNF19
 -->
