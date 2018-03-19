@@ -156,6 +156,9 @@ So, basically I started with a simple networks that overfits quickly the trainin
 Below are shown images for tunning process from step 2 to step7. On the last image is displayed the selected model without the final hyper parameters tunning:
 ![alt text][image6] ![alt text][image7] ![alt text][image8] ![alt text][image9] ![alt text][image10] ![alt text][image11] 
 
+#### Step 2.3: Model Architecture.
+
+Finally, the main goal was to get a model as simple as possible. For that reason, the following architecture was chosen:
 
 
 
@@ -317,5 +320,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzI1Nzc2M119
+eyJoaXN0b3J5IjpbLTQ2MjcwMDIyNV19
 -->
