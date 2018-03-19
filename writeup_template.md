@@ -319,10 +319,10 @@ new_predicted values: \   [ 2 41 14 18 40 41 25 24 29  9\]
 | 14,Stop      		| 18,General caution Road					 				|
 | 19,Dangerous curve to the left			| 40,Roundabout mandatory Road  
 | 20,Dangerous curve to the right      		| 41,End of no passing sign   									| 
-|25,Road work     			| U-turn 										|
-| Yield					| Yield											|
-| 100 km/h	      		| Bumpy Road					 				|
-| Slippery Road			| Slippery Road  
+| 25,Road work     			| 25,Road work 										|
+| 27,Pedestrians				| 24,Road narrows on the right											|
+| 29,Bicycles crossing      		| 29,Bicycles crossing Road					 				|
+| 35,Ahead only			| Slippery Road  
 
 
 
@@ -410,5 +410,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTc1MjU2MF19
+eyJoaXN0b3J5IjpbOTAyNTUzMjgyXX0=
 -->
