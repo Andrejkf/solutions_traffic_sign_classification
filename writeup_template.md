@@ -309,8 +309,18 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 
 
 
-
-
+| Image			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
+| Stop Sign      		| Stop sign   									| 
+| U-turn     			| U-turn 										|
+| Yield					| Yield											|
+| 100 km/h	      		| Bumpy Road					 				|
+| Slippery Road			| Slippery Road  
+| Stop Sign      		| Stop sign   									| 
+| U-turn     			| U-turn 										|
+| Yield					| Yield											|
+| 100 km/h	      		| Bumpy Road					 				|
+| Slippery Road			| Slippery Road  
 
 
 
@@ -398,5 +408,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYxMTY5NzNdfQ==
+eyJoaXN0b3J5IjpbMTA5MTY2MTExOV19
 -->
