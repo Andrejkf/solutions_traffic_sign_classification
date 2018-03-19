@@ -385,7 +385,7 @@ Links
 
 [image12]: ./other_images/report_6.png "Final model trained"
 
-[image13]: ./new_images_original/9_1.jpeg  "Label: 9,No passing"
+[image13]: ./other_images/report_original_9_1.png  "Label: 9,No passing"
 [image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
 [image15]: ./new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
 [image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
@@ -405,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ5NzU1MDhdfQ==
+eyJoaXN0b3J5IjpbNzk4Njc1MjZdfQ==
 -->
