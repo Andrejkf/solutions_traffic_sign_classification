@@ -370,22 +370,13 @@ Links
 
 [image12]: ./other_images/report_6.png "Final model trained"
 
-[image13]: ./new_images_original/9_1.jpeg "model 4"
-[image14]: ./other_images/4.png "model 4"
-[image15]: ./other_images/4.png "model 4"
+[image13]: ./new_images_original/9_1.jpeg "Label: 9,No passing"
+[image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
+[image15]: ../new_images_original/20_1.jpeg "model 4"
 [image16]: ./other_images/4.png "model 4"
 [image17]: ./other_images/4.png "model 4"
 
 
-plt.figure()
-read_image('./new_images_original/9_1.jpeg')
-plt.title('Label: 9,No passing.')
-
-plt.figure()
-read_image('./new_images_original/14_1.jpeg')
-plt.title('Label: 14,Stop.')
-
-plt.figure()
 read_image('./new_images_original/20_1.jpeg')
 plt.title('Label: 20,Dangerous curve to the right.')
 
@@ -412,5 +403,5 @@ plt.show()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTYyNjk1Nl19
+eyJoaXN0b3J5IjpbLTM1NDgyNjhdfQ==
 -->
