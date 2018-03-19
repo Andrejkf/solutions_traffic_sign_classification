@@ -256,7 +256,7 @@ To train the model the initial batch size was 128 but changed to 256 with out an
 * It was noticed that the network continue having a hard tendency to overfit the training data, however no more  atempts to improve network performance were done.
 * Knowing that the networks looks for overfitting data, an early stop training for 50 epochs was selected to satisfy project rubric. But, honestly, it can be highly improved testing other models.
 
-
+*Model predictions are followed by softmax probability. Then cross-entropy between predicted labels and expected label values is computed. And the objective function selected was the mean error rate betwee
 
 
 
@@ -416,5 +416,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTA3OTI2Ml19
+eyJoaXN0b3J5IjpbLTEyMTA1OTY5NzZdfQ==
 -->
