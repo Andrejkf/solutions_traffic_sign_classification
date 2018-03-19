@@ -107,8 +107,7 @@ On this German Traffic Signs dataset we have:
 
 Here we visualize the German Traffic Signs Dataset using the pickled files. Especifically we are displaying:
 * In this first figure: A sample of 20 images from the training set.
-
-![alt text][image1]
+* ![alt text][image1]
 * In the seccond figure: A histogram(with distribution of classes) for the training and the validation set.
  ![alt text][image2]
 * In the third image: A histogram(with distribution of classes) for the test set.
@@ -231,5 +230,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAyNDk2MjhdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjgzMTM1Ml19
 -->
