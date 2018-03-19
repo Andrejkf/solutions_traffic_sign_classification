@@ -160,7 +160,6 @@ Below are shown images for tunning process from step 2 to step7. On the last ima
 
 Finally, the main goal was to get a model as simple as possible. For that reason, the following architecture was chosen:
 
-</style>
 <table class="tg">
   <tr>
     <th class="tg-031e">Layer name<br></th>
@@ -397,5 +396,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODg4NTE5Ml19
+eyJoaXN0b3J5IjpbLTMxNTQ0NTc4Ml19
 -->
