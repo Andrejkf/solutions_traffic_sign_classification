@@ -267,7 +267,10 @@ The final model results were:
 -   training set accuracy of 
 -   validation set accuracy of ?
 -   test set accuracy of ?
+EPOCH 50 ...
+Training Accuracy = 0.988
 
+Validation Accuracy = 0.939
 
 
 
@@ -425,5 +428,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMzQyMDY4XX0=
+eyJoaXN0b3J5IjpbMzA1MjY1NTY3XX0=
 -->
