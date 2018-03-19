@@ -281,8 +281,18 @@ Also, dropout layers can help to distribute knowledge across the network. [Read 
 Five (5) pictures of German traffic signs were downloaded from the web using google browser and other five (5) where downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news). Then the pretrained model was used to predict the traffic sign type.
 
 #### Step3.1: Load and Output the Images
+A total of 10 new images were used for further testing purposes. Some of them where selected to be the less common classes images in the dataset to test model robustness.
 
-Here are five German traffic signs that I found on the web:
+
+The first 5 downloaded images are show below.
+
+* Image with label: 9,No passing. Was selected because is not in he common position of the images from training set. So even if that image class was very common on the training set given the fact that data augmentation was not done is expected to misclasify this image.
+* Image with label: 14,Stop. Was taken because semantically is one of the most important traffic signs on the road. The image was selected with high brigtness to test the importance of including contrast enhancement during preprocessing images. This one is expected to be correctly classified.
+* Image with label: 20,Dangerous curve to the right. Was chosen for being one with less common class type in the training set. This image is expected to be misclassifed.
+* Image with label: 19,Dangerous curve to the left. Was chosen also for being one of the commonless in the training set. Is the flipped verion of the downloaded image with label 20,Dangerous curve to the right. This image is expected to be misclasified too.
+* Image with label: 27,Pedestrians. Was selected because in the read is mandatory to detect any information related with pedestrians. In this case, kids from kindergarten.
+* 
+Here are 5 German traffic signs that I found on the web:
 
 
 
@@ -376,5 +386,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgwNzQwNzFdfQ==
+eyJoaXN0b3J5IjpbODUwMjYyNDMyXX0=
 -->
