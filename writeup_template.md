@@ -69,7 +69,7 @@ The specific goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: (https://github.com/Andrejkf/solutions_traffic_sign_classification/blob/master/other_images/report_1.png)
+[image1]: ./other_images/report_1.png
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
@@ -228,5 +228,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzkwMDYwOV19
+eyJoaXN0b3J5IjpbLTQ2ODQ2NDAxOF19
 -->
