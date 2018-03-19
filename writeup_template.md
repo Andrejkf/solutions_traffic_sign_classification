@@ -359,16 +359,7 @@ In this subsection top softmax probabilities for each new image found on the web
 2. Notice that sometimes the expected label number were not listed in the top 5 softmax probabilities, showing that the trained network has real trouble classifiying these images.
 
 3. Notice also that the network was tested just one time with the *new mini data set of images downloaded from the web*. So you will have different performance everytime you run the test in this new mini data set.
-* For image 1. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 2. The expected labe was 9. And it was classified in descending probability order as: 12,41,32.
-* For image 3. The expected labe was 14. And it was classified in descending probability order as: 1,13,7,5,2.
-* For image 4. The expected labe was 14. And it was classified in descending probability order as: 2,4.
-* For image 5. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 6. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 7. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 8. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 9. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 10. The expected labe was 2. And it was classified in descending probability order as: 2,4.
+
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
 The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
@@ -442,5 +433,5 @@ Links
 [image33]: ./other_images/report_11.png "sofmax img1"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDMyMzIwOV19
+eyJoaXN0b3J5IjpbNzY5MzEzOTE2XX0=
 -->
