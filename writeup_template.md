@@ -153,7 +153,7 @@ Very general model tunning process followed is described as follows:
 7. Reduced number of filters and added extra dropout layers after pooling_layers and increased probability to keep weights on convolutional, pooling and fully connedted layers.
 
 So, basically I started with a simple networks that overfits quickly the training set, increased the number of free paramenters in the network and run for many epochs, but then I included regularization in a simpler model to increase generalization. I also had noticed that the harder you regularize the more epochs in takes more epochs to train the network but improves generalization.
-Below are shown images for tunning process from step 2 to step7:
+Below are shown images for tunning process from step 2 to step7. :
 ![alt text][image6] ![alt text][image7] ![alt text][image8] ![alt text][image9] ![alt text][image10] ![alt text][image11] 
 
 
@@ -317,5 +317,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NDE4Nzg4XX0=
+eyJoaXN0b3J5IjpbODI2MzMyODg2XX0=
 -->
