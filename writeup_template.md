@@ -339,6 +339,7 @@ However, that asumption might not be true and is preferred not to generate affir
 In addition, author does not compromise to any conclusion about this attempt to compare *test_set* with *new_imags_mini_dataset*.
 
 #### Step 3.3: Output Top 5 Softmax Probabilities For Each Image Found on the Web
+The code for making predictions on my final model is located in the section Step3.3ell of the Ipython notebook.
 
 In this subsection top softmax probabilities for each new image found on the web are displayed:
 
@@ -432,5 +433,5 @@ Links
 [image33]: ./other_images/report_11.png "sofmax img1"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzk5Mzk1Ml19
+eyJoaXN0b3J5IjpbMzM1NTg5MzMwXX0=
 -->
