@@ -392,7 +392,7 @@ Links
 [image17]: ./other_images/report_original_27_1.png "Label: 27,Pedestrians"
 
 
-[image18]: ./other_images/report_3_2_1.png  "Label: 2,Speed limit (50km/h)"
+[image18]: ./other_images/report_original_2_1.png  "Label: 2,Speed limit (50km/h)"
 [image19]: ./new_images_original/14_2.ppm "Label: 14,Stop"
 [image20]: ./new_images_original/25_1.ppm "Label: 25,Road work"
 [image21]: ./new_images_original/29_1.ppm "Label: 29,Bicycles crossing"
@@ -405,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjA5MjY4MV19
+eyJoaXN0b3J5IjpbLTEwNjcxMzAxMzVdfQ==
 -->
