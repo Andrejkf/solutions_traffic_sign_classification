@@ -239,6 +239,14 @@ Finally, the main goal was to get a model as simple as possible. For that reason
 </table>
 
 
+With the following hyper parameters values:
+* Batch size = 128 
+* Training Epochs = 50 (Please check last plot where the model has performace above 93% in validation set after epoch number 25 aproximately ). Was preferred to stop model at 40 epochs to avoid over-training.
+* Learning rate : 0.001 (I did not used decaying learning rate because [Adam optimizer computes individual adaptive learning rate](https://arxiv.org/pdf/1412.6980.pdf).
+* Dropout probability = 0.1 ( Keep probability 0.9).
+
+**Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
+
 
 
 
@@ -398,5 +406,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY0MTU0Ml19
+eyJoaXN0b3J5IjpbNTc5NzU0Mzc2XX0=
 -->
