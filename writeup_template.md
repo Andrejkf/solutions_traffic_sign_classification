@@ -307,6 +307,7 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 * Image 9,  with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
+#### Step 3.2: Performance on new images
 Here are the results of the prediction:
 <br/> expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
 <br/> new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
@@ -336,6 +337,8 @@ Reader migth be tempted to make a performance comparison between *test* and *new
 However, that asumption might not be true and is preferred not to generate affirmations before studying better the test data set and the new images mini data set.
 
 In addition, author does not compromise to any conclusion about this attempt to compare *test_set* with *new_imags_mini_dataset*.
+
+#### Step 3.3: Output Top 5 Softmax Probabilities For Each Image Found on the Web
 
 
 
@@ -402,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk2MDI2MV19
+eyJoaXN0b3J5IjpbLTE1NDA5OTY2ODBdfQ==
 -->
