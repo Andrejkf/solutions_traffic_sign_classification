@@ -39,7 +39,7 @@ This is a non exhaustive list of Tensorflow functions I used:
 
 ---
 ## Reflection
-To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in datail and all coding lines on file *solution_Traffic_Sign_Classifier.ipynb*.
+To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_Traffic_Sign_Classifier.ipynb*.
 
 
 ---
@@ -427,5 +427,5 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMTU4MDg5XX0=
+eyJoaXN0b3J5IjpbLTEzNzMyNTkxMzFdfQ==
 -->
