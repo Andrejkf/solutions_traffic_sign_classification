@@ -361,8 +361,11 @@ In this subsection top softmax probabilities for each new image found on the web
 3. Notice also that the network was tested just one time with the *new mini data set of images downloaded from the web*. So you will have different performance everytime you run the test in this new mini data set.
 
 
+### Step 4: Visualizing the Neural Network's State with Test Images.
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
+
+
+
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 ---
@@ -418,5 +421,5 @@ Links
 [image33]: ./other_images/report_11.png "sofmax img1"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk2NzcwNzVdfQ==
+eyJoaXN0b3J5IjpbLTkwMDY3MjQzOV19
 -->
