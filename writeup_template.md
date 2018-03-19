@@ -248,7 +248,7 @@ With the following hyper parameters values:
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
 ##### Description about how the model was trained.
-To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RA
+To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. Initially just the training set was used 
 
 
 
@@ -407,5 +407,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzNDczMTFdfQ==
+eyJoaXN0b3J5IjpbLTE5NTI0Njk4MTddfQ==
 -->
