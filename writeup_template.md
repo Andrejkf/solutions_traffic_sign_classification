@@ -296,6 +296,13 @@ The first 5 downloaded images are show below.
 * Image 4, with label: 20,Dangerous curve to the right. Was chosen for being one with less common class type in the training set. This image is expected to be misclassifed.
 * Image 5, with label: 19,Dangerous curve to the left. Was chosen also for being one of the commonless in the training set. Is the flipped verion of the downloaded image with label 20,Dangerous curve to the right. This image is expected to be misclasified too.
 
+The other 5 images were downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) and are shown below. They were chosen to be very difficult for me, as a human, to clasify them.
+
+* Image with label: 2,Speed limit (50km/h). Was selected because the image was taken while on the road and some pixels seem to be shifted. It is one of the most common images on the data set so it is expected that it should be correctly classified.
+* Image with label: 14,Stop. Was selected because exhibits a very variable level of brigthness among the different pixels. A stop signal is one of the most important signals to be detected.
+* Image with label: 25,Road work. Was selected because is one of the classes with the low level number of examples in the training set.
+* Image with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
+* Image with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
 
 
@@ -395,7 +402,25 @@ Links
 [image24]: ./other_images/4.png "model 4"
 [image25]: ./other_images/4.png "model 4"
 
+plt.figure()
+read_image('./new_images_original/2_1.ppm')
+plt.title('Label: 2,Speed limit (50km/h).')
 
+plt.figure()
+read_image('./new_images_original/14_2.ppm')
+plt.title('Label: 14,Stop.')
+
+plt.figure()
+read_image('./new_images_original/25_1.ppm')
+plt.title('Label: 25,Road work.')
+
+plt.figure()
+read_image('./new_images_original/29_1.ppm')
+plt.title('Label: 29,Bicycles crossing')
+
+plt.figure()
+read_image('./new_images_original/35_1.ppm')
+plt.title('Label: 35,Ahead only')
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjc0MzQ2Ml19
+eyJoaXN0b3J5IjpbNTkyMzE3NjUyXX0=
 -->
