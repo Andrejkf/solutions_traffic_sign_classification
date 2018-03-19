@@ -45,7 +45,7 @@ To make it easier to follow up this reading the most relevant information is wri
 ---
 ### Content of this repository
 * A file named **solution_Traffic_Sign_Classifier.ipynb** with the step by step detailed explanation of solution for this project in a  Jupyter IPython Notebook.
-* A file named **solution_Traffic_Sign_Classifier.html** with the step by step detailed explanation and code for this project in a HTML fide.
+* A file named **solution_Traffic_Sign_Classifier.html** with the step by step detailed explanation and code for this project in a HTML file.
 * A file named **signnames.csv** with  mappings from the class id (integer) to the actual sign name. It is just a copy of the *signnames.csv* file provided in the project.
 * A folder named **traffic-signs-data** with the images used for model training, validation and test.
 * A folder named **checkpoints** with metadata information of trained model.  In case that you want to use it please read the file *solution_Traffic_Sign_Classifier.ipynb*
@@ -75,8 +75,8 @@ Here I will consider the *rubric points* individually and describe how I address
 ---
 ### Files submitted
 * A [writeup](https://github.com/Andrejkf/solutions_traffic_sign_classification) report in markdown that corresponds to this particular file you are reading right now.
-*  A file named [**solution_Traffic_Sign_Classifier.ipynb**](https://github.com/Andrejkf/solutions_traffic_sign_classification) with the step by step detailed explanation of solution aproach and code for this project in a  Jupyter IPython Notebook.
-* ### todo * A file named **solution_Traffic_Sign_Classifier.ipynb** with an HTML output of the code.
+*  A file named [**solution_Traffic_Sign_Classifier.html**](https://github.com/Andrejkf/solutions_traffic_sign_classification) with the step by step detailed explanation and code for this project in a HTML file.
+
 * A folder named **parameter_tunning** with 7 python files corresponding each model tested during architecture design, in case that you want to check it out.
 *  A full [repository](https://github.com/Andrejkf/solutions_traffic_sign_classification) with all files described in the *content of this repository* sections of this document.
 
@@ -439,5 +439,5 @@ This project is succesful to clasiffy images from [German Traffic Signs data set
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MDEyMjI2XX0=
+eyJoaXN0b3J5IjpbLTExOTY0MDgwNjldfQ==
 -->
