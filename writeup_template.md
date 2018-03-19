@@ -298,11 +298,11 @@ The first 5 downloaded images are show below.
 
 The other 5 images were downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) and are shown below. They were chosen to be very difficult for me, as a human, to clasify them.
 
-* Image with label: 2,Speed limit (50km/h). Was selected because the image was taken while on the road and some pixels seem to be shifted. It is one of the most common images on the data set so it is expected that it should be correctly classified.
-* Image with label: 14,Stop. Was selected because exhibits a very variable level of brigthness among the different pixels. A stop signal is one of the most important signals to be detected.
-* Image with label: 25,Road work. Was selected because is one of the classes with the low level number of examples in the training set.
-* Image with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
-* Image with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
+* Image 6, with label: 2,Speed limit (50km/h). Was selected because the image was taken while on the road and some pixels seem to be shifted. It is one of the most common images on the data set so it is expected that it should be correctly classified.
+* Image 7, with label: 14,Stop. Was selected because exhibits a very variable level of brigthness among the different pixels. A stop signal is one of the most important signals to be detected.
+* Image 8, with label: 25,Road work. Was selected because is one of the classes with the low level number of examples in the training set.
+* Image 9,  with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
+* Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
 
 
@@ -405,15 +405,6 @@ Links
 [image25]: ./other_images/4.png "model 4"
 
 
-
-
-plt.figure()
-read_image('./new_images_original/29_1.ppm')
-plt.title('Label: 29,Bicycles crossing')
-
-plt.figure()
-read_image('./new_images_original/35_1.ppm')
-plt.title('Label: 35,Ahead only')
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc3MDYwOV19
+eyJoaXN0b3J5IjpbNDc5NzkyMTQ5XX0=
 -->
