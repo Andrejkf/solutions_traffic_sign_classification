@@ -159,7 +159,89 @@ Below are shown images for tunning process from step 2 to step7. On the last ima
 #### Step 2.3: Model Architecture.
 
 Finally, the main goal was to get a model as simple as possible. For that reason, the following architecture was chosen:
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;border-top-width:1px;border-bottom-width:1px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;border-top-width:1px;border-bottom-width:1px;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Layer name<br></th>
+    <th class="tg-031e">Layer type<br></th>
+    <th class="tg-031e">Parameters/Description</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">conv1</td>
+    <td class="tg-031e">Convolution</td>
+    <td class="tg-031e">Filters: 6 (5x5)<br>Pad: 0<br>At stride: 1<br>Activation: ReLU<br>Input: (32x32x3)<br>Output:(28x28x6)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">drop1a</td>
+    <td class="tg-031e">Dropout</td>
+    <td class="tg-031e">Keep Prob: 0.8<br></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">pool1</td>
+    <td class="tg-031e">Pooling</td>
+    <td class="tg-031e">Kernels size: (2x2)<br>Pad: 0<br>At stride: 2<br>Input: (28x28x6)<br>Output: (14x14x6)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">drop1b</td>
+    <td class="tg-yw4l">Dropout</td>
+    <td class="tg-yw4l">Keep Prob: 0.9</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">conv2</td>
+    <td class="tg-yw4l">Convolution</td>
+    <td class="tg-yw4l">Filters: 16 (5x5)<br>Pad: 0<br>At stride: 1<br>Activation: ReLU<br>Input: (14x14x16)<br>Output:(10x10x16)</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">drop2a</td>
+    <td class="tg-yw4l">Dropout</td>
+    <td class="tg-yw4l">Keep Prob: 0.9</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">pool2</td>
+    <td class="tg-yw4l">Pooling</td>
+    <td class="tg-yw4l">Kernels size: (2x2)<br>Pad: 0<br>At stride: 2<br>Input: (10x10x16)<br>Output: (5x5x16)</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">drop2b</td>
+    <td class="tg-yw4l">Dropout</td>
+    <td class="tg-yw4l">Keep Prob: 0.9</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fc0</td>
+    <td class="tg-yw4l">Flatten</td>
+    <td class="tg-yw4l">Input: (5x5x16)<br>Output: 400 Neurons<br></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fc1</td>
+    <td class="tg-yw4l">Fully Connected<br></td>
+    <td class="tg-yw4l">Input: 400 Neurons<br>Output: 120 Neurons</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">dropfc1</td>
+    <td class="tg-yw4l">Dropout</td>
+    <td class="tg-yw4l">Keep Prob: 0.9</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fc2</td>
+    <td class="tg-yw4l">Fully Connected</td>
+    <td class="tg-yw4l">Input: 120 Neurons<br>Output: 84 Neurons</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">dropfc2</td>
+    <td class="tg-yw4l">Dropout</td>
+    <td class="tg-yw4l">Keep Prob: 0.9</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fc3</td>
+    <td class="tg-yw4l">Fully Connected</td>
+    <td class="tg-yw4l">Input: 84 Neurons<br>Output: 43 Neurons (Class Scores)<br></td>
+  </tr>
+</table>
 
 
 
@@ -320,5 +402,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjcwMDIyNV19
+eyJoaXN0b3J5IjpbLTUyNjk4Mzc5Ml19
 -->
