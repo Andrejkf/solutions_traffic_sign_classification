@@ -133,6 +133,23 @@ However, the three chanel colors representation was kept and all data preprocess
 In addition, to reduce abrupt changes present in some images it was decided to used histogram equalization by image sub-sections instead of using a global histogram equalization ([Click here for further information](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html)).
 By the other hand, even if the input data set was unbalanced it was wanted to [challenge the model generalization ability with unbalanced information](http://ieeexplore.ieee.org/document/6677603/) and penalized overfitting by using a regularization technique. More specifically, weights dropout during the training process.
 
+##### Step 2.1.1: Contrast Limited Adaptive Histogram Equalization (CLAHE).
+[Contrast Limited Adaptive Histogram Equalization](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html) was used to get a better contrast enhancement than the one gotten with global histogram equalization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 As a first step, I decided to convert the images to grayscale because ...
 
@@ -246,5 +263,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDQxNTEzNV19
+eyJoaXN0b3J5IjpbLTQ4Mzk2ODQxN119
 -->
