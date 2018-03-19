@@ -307,14 +307,15 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 * Image 9,  with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
-new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
 expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
+new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
+
 
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| Speed limit (50km/h)      		| Speed limit (50km/h)   									| 
-| U-turn     			| U-turn 										|
-| Yield					| Yield											|
+| 2,Speed limit (50km/h)      		| 2,Speed limit (50km/h)   									| 
+| 9,No passing     			| 41,End of no passing 										|
+| 14,Stop				| 14,Stop											|
 | 100 km/h	      		| Bumpy Road					 				|
 | Slippery Road			| Slippery Road  
 | Stop Sign      		| Stop sign   									| 
@@ -409,5 +410,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQwMzIxMF19
+eyJoaXN0b3J5IjpbLTI0Nzc5NjYwXX0=
 -->
