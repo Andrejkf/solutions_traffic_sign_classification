@@ -136,6 +136,13 @@ Training set **mean** and **standard deviation** are computed to get zero-mean u
 So we had closer zero-mean unit-variance input data. Also, a sample of the images after normalization is displayed below:
 <br/>![alt text][image5]
 
+#### Step 2.2: Solution Aproach.
+Used a modified version of [LeNet-5](http://yann.lecun.com/exdb/lenet/).
+
+As starting reference [LeNet-5 from laboratory]((https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/6df7ae49-c61c-4bb2-a23e-6527e69209ec/lessons/601ae704-1035-4287-8b11-e2c2716217ad/concepts/d4aca031-508f-4e0b-b493-e7b706120f81) and a [convolutional network proposed by Aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py) were used.
+Then was modified the architecture changing and/or adding network parameters across the whole model.
+
+
 
 
 
@@ -275,5 +282,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzI1OTY3Ml19
+eyJoaXN0b3J5IjpbMTYzNTQ5NzgyMV19
 -->
