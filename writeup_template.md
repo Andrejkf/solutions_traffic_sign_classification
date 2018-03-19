@@ -254,8 +254,9 @@ To train the model the initial batch size was 128 but changed to 256 with out an
 * Then the number of epochs was set to a high number like 100 and 150 and compared training vs validation accuracy.
 * After noticing high tendency of the network to overfit training data. Probability of droping out weights was set to 0.5, 0.6, 0.7,0.8 and 0.9 and noticed that better performance was with low dropout levels, that is, with high probability of keeping the same weights. So a dropout=0.1 (keep probabilty = 0.9) was chosen.
 * It was noticed that the network continue having a hard tendency to overfit the training data, however no more  atempts to improve network performance were done.
-* Knowing that the networks looks for overfitting data, an early stop training for 50 epochs was selected to satisfy project rubric.
-*
+* Knowing that the networks looks for overfitting data, an early stop training for 50 epochs was selected to satisfy project rubric. But, honestly, it can be highly improved testing other models.
+
+
 
 
 
@@ -415,5 +416,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTk2MTk4Nl19
+eyJoaXN0b3J5IjpbMTA2MTA3OTI2Ml19
 -->
