@@ -360,9 +360,9 @@ In this subsection top softmax probabilities for each new image found on the web
 
 3. Notice also that the network was tested just one time with the *new mini data set of images downloaded from the web*. So you will have different performance everytime you run the test in this new mini data set.
 * For image 1. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 2. The expected labe was 9. And it was classified in descending probability order as: 12,41.
-* For image 3. The expected labe was 2. And it was classified in descending probability order as: 2,4.
-* For image 4. The expected labe was 2. And it was classified in descending probability order as: 2,4.
+* For image 2. The expected labe was 9. And it was classified in descending probability order as: 12,41,32.
+* For image 3. The expected labe was 14. And it was classified in descending probability order as: 1,13,7,5,2.
+* For image 4. The expected labe was 14. And it was classified in descending probability order as: 2,4.
 * For image 5. The expected labe was 2. And it was classified in descending probability order as: 2,4.
 * For image 6. The expected labe was 2. And it was classified in descending probability order as: 2,4.
 * For image 7. The expected labe was 2. And it was classified in descending probability order as: 2,4.
@@ -442,5 +442,5 @@ Links
 [image33]: ./other_images/report_11.png "sofmax img1"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTM2NjU5N119
+eyJoaXN0b3J5IjpbMjA1NDMyMzIwOV19
 -->
