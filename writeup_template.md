@@ -422,9 +422,9 @@ An stimulus image is used to get the filters response.
 
 
 
-[image33]: ./other_images/report_11.png "sofmax img1"
-
+[image33]: ./other_images/report_41.png "stimuli1"
+[image34]: ./other_images/report_11.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAwOTk1MDldfQ==
+eyJoaXN0b3J5IjpbMTAzODI3NTkwOF19
 -->
