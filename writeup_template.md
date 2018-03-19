@@ -394,12 +394,6 @@ Links
 [image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
 [image17]: ./new_images_original/27_1.jpg "Label: 27,Pedestrians"
 
-
-
-
-
-
-
 [image18]: ./new_images_original/2_1.ppm  "Label: 2,Speed limit (50km/h)"
 [image19]: ./new_images_original/14_2.ppm "Label: 14,Stop"
 [image20]: ./new_images_original/25_1.ppm "Label: 25,Road work"
@@ -413,5 +407,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTMxNjY3MF19
+eyJoaXN0b3J5IjpbLTUxODgyNTgxNF19
 -->
