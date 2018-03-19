@@ -316,7 +316,7 @@ new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
 | 2,Speed limit (50km/h)      		| 2,Speed limit (50km/h)   									| 
 | 9,No passing     			| 41,End of no passing 										|
 | 14,Stop				| 14,Stop											|
-| 100 km/h	      		| Bumpy Road					 				|
+| 14,Stop      		| 18,General caution Road					 				|
 | Slippery Road			| Slippery Road  
 | Stop Sign      		| Stop sign   									| 
 | U-turn     			| U-turn 										|
@@ -410,5 +410,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzc5NjYwXX0=
+eyJoaXN0b3J5IjpbODAxMDMwNjQ0XX0=
 -->
