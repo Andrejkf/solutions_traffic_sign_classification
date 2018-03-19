@@ -132,6 +132,9 @@ A sample of 5 images is shown. It contains the original images and the correspon
 <br/>![alt text][image4]
 
 ##### Step 2.1.2: Shuffled data.
+Training set **mean** and **standard deviation** are computed to get zero-mean unit variace input data.
+So we had closer zero-mean unit-variance input data. Also, a sample of the images after normalization is displayed below:
+<br/>![alt text][image5]
 
 
 
@@ -272,5 +275,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzMxOTI0OV19
+eyJoaXN0b3J5IjpbMTY4MzI1OTY3Ml19
 -->
