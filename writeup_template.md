@@ -248,7 +248,7 @@ With the following hyper parameters values:
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
 ##### Description about how the model was trained.
-To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During hyper parameters tunning just the training set was used.
+To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During initial hyper parameters tunning just the training and validation sets were used.
 * The training set was shuffled every epoch.
 * The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy did not imporved after many epochs. So a value of 0.001 was set up.
 * Then the number of epochs was set to a high number like 100 and 150 and compared training vs validation accuracy.
@@ -413,5 +413,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDU1NDU2OV19
+eyJoaXN0b3J5IjpbLTkzNjMxMDg2Nl19
 -->
