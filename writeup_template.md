@@ -247,8 +247,8 @@ With the following hyper parameters values:
 
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
-##### Description about how model was trained.
-
+##### Description about how the model was trained.
+To train the model 
 
 
 
@@ -407,5 +407,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzM4NjU5XX0=
+eyJoaXN0b3J5IjpbLTM3NzM5NjcxM119
 -->
