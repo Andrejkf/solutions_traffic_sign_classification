@@ -291,12 +291,30 @@ Links
 [image3]: ./other_images/report_3.png "test set histogram"
 [image4]: ./other_images/report_4.png "contrast enhacement"
 [image5]: ./other_images/report_5.png "zero-mean unit-variance"
-[image6]: ./other_images/2.png "model 1"
+[image6]: ./other_images/2.png "model 2"
 
-[image7]: ./other_images/report_5.png "zero-mean unit-variance"
+[image7]: ./other_images/3.png "model 3"
 
-[image8]: ./other_images/report_5.png "zero-mean unit-variance"
+[image8]: ./other_images/4.png "model 4"
+[image9]: ./other_images/4.png "model 4"
+[image10]: ./other_images/4.png "model 4"
+[image11]: ./other_images/4.png "model 4"
+[image12]: ./other_images/4.png "model 4"
+[image13]: ./other_images/4.png "model 4"
+[image14]: ./other_images/4.png "model 4"
+[image15]: ./other_images/4.png "model 4"
+[image16]: ./other_images/4.png "model 4"
+[image17]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+[image8]: ./other_images/4.png "model 4"
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0MjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzQzMzI3NTRdfQ==
 -->
