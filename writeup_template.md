@@ -248,15 +248,14 @@ With the following hyper parameters values:
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
 ##### Description about how the final model was trained.
-The following cosiderations were made during training stage:
-
+The following considerations were made during training stage:
 
 * To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During initial hyper parameters tunning just the training and validation sets were used.
 * The training set was shuffled every epoch.
 * The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy did not imporved after many epochs. So a value of 0.001 was set up.
 * Then the number of epochs was set to a high number like 100 and 150 and compared training vs validation accuracy.
 * After noticed a high tendency of the network to overfit training data, the probability of droping out weights was set to 0.5, 0.6, 0.7,0.8 and 0.9 and noticed that better performance was with low dropout levels, that is, with high probability of keeping the same weights. So a dropout=0.1 (keep probabilty = 0.9) was chosen.
-* Known that the networks looks for overfitting data, an early stop training for 50 epochs was selected to avoid it.
+* Known that the networks looks for overfitting data, an early stop training of 50 epochs was selected to avoid it.
 * Model predictions were followed by softmax probabilities.
 * Then cross-entropy between predicted labels and expected label values was computed.
 * The objective function selected was the mean error rate between logits and labels.
@@ -422,5 +421,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0OTg1NF19
+eyJoaXN0b3J5IjpbLTg0MDM1NTE4OF19
 -->
