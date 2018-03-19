@@ -263,16 +263,10 @@ The following considerations were made during training stage:
 
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
-The final model results were:
--   training set accuracy of 
--   validation set accuracy of 0.939 = 0.
+The final model results at epoch 50 were:
+-   training set accuracy of 0.988 = 98.8%
+-   validation set accuracy of 0.939 = 939%
 -   test set accuracy of 0.93 = 93%
-EPOCH 50 ...
-Training Accuracy = 0.988
-
-Validation Accuracy = 0.939
-Test 
-
 
 
 
@@ -429,5 +423,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU0OTA0OTFdfQ==
+eyJoaXN0b3J5IjpbMTg1NTIwMzMxNV19
 -->
