@@ -269,7 +269,7 @@ The final model results at epoch 50 were:
 -   test set accuracy of 0.93 = 93%
 
 Bellow the image
-
+<br/>![alt text][image6]
 
 
 
@@ -407,7 +407,7 @@ Links
 [image10]: ./other_images/6.png "model 6"
 [image11]: ./other_images/7.png "model 7"
 
-[image12]: ./other_images/4.png "model 4"
+[image12]: ./other_images/report_6.png "Final model train"
 [image13]: ./other_images/4.png "model 4"
 [image14]: ./other_images/4.png "model 4"
 [image15]: ./other_images/4.png "model 4"
@@ -424,5 +424,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU0MzAxOF19
+eyJoaXN0b3J5IjpbLTExNzQ1NTA2NDZdfQ==
 -->
