@@ -372,7 +372,7 @@ An stimulus image is used to get the filters response.
 And the Weigts for filters in Convolutional layer 2 are shown:
 <br/> ![alt text][image34]
 
-
+It is interesting to notice how Filter2 and Filter3 show high 
 
 
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
@@ -430,5 +430,5 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjA2OTU1NF19
+eyJoaXN0b3J5IjpbLTExMTkwMjE4NTldfQ==
 -->
