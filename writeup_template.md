@@ -387,7 +387,7 @@ This project is succesful to clasiffy images from [German Traffic Signs data set
 * Database should be balanced to increase the number of commonless examples. (e.g. [Data augmentation](https://arxiv.org/abs/1703.08383)).
 * [Feature maps](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) should be shown, not just the filters used in cross-correlation at receptive fields.
 
-
+* In addition, it would be greate to check reinforcement learning as an alternative to classif
 
 ---
 [//]: # (Image References)
@@ -439,5 +439,5 @@ This project is succesful to clasiffy images from [German Traffic Signs data set
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzY3NzQ0Ml19
+eyJoaXN0b3J5IjpbLTE0ODU1OTY3NDZdfQ==
 -->
