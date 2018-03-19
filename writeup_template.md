@@ -131,6 +131,8 @@ A sample of 5 images is shown. It contains the original images and the correspon
 
 <br/>![alt text][image4]
 
+##### Step 2.1.2: Shuffled data.
+
 
 
 
@@ -270,5 +272,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNzIxODE0XX0=
+eyJoaXN0b3J5IjpbMTUyMzMxOTI0OV19
 -->
