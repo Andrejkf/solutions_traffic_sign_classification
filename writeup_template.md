@@ -298,7 +298,8 @@ The first 5 downloaded images are show below.
 
 The other 5 images were downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) and are shown below. They were chosen to be very difficult for me, as a human, to clasify them.
 
-<br/>![alt text][image18] ![alt text][image19]
+<br/>
+![alt text][image18] ![alt text][image19]
 ![alt text][image20] ![alt text][image21] 
 ![alt text][image22] 
 
@@ -411,5 +412,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIzMjk0NDZdfQ==
+eyJoaXN0b3J5IjpbLTEzMzU1MTA1MjBdfQ==
 -->
