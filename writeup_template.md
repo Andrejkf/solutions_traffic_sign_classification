@@ -282,7 +282,7 @@ Five (5) pictures of German traffic signs were downloaded from the web using goo
 
 #### Step3.1: Load and Output the Images
 
-
+Here are five German traffic signs that I found on the web:
 
 
 
@@ -376,5 +376,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2MTIwODhdfQ==
+eyJoaXN0b3J5IjpbLTEzNjgwNzQwNzFdfQ==
 -->
