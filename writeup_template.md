@@ -267,6 +267,7 @@ To train the model the initial batch size was 128 but changed to 256 with out an
 
 
 
+
 As a first step, I decided to convert the images to grayscale because ...
 
 Here is an example of a traffic sign image before and after grayscaling.
@@ -412,5 +413,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMwMTk1NTddfQ==
+eyJoaXN0b3J5IjpbMTA0MDU1NDU2OV19
 -->
