@@ -142,6 +142,18 @@ Used a modified version of [LeNet-5](http://yann.lecun.com/exdb/lenet/).
 As starting reference [LeNet-5 from laboratory]((https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/6df7ae49-c61c-4bb2-a23e-6527e69209ec/lessons/601ae704-1035-4287-8b11-e2c2716217ad/concepts/d4aca031-508f-4e0b-b493-e7b706120f81) and a [convolutional network proposed by Aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py) were used.
 Then was modified the architecture changing and/or adding network parameters across the whole model.
 
+Very general model tunning process followed is described as follows:
+    
+1. Tested LeNet-5 from lab as starting point.
+2. Incresed batch size to 256 and run 10 Epochs.
+3. Added dropout layers (after each ReLU) with keep_probability = 0.5 and run 50 Epochs.
+4. Increased Number of filters in convolutional layers as going deeper (starting with 16 and ending with 64 filters)
+5. Decreased Number of filters in convolutional layers as going deeper (starting with 128 and ending with 64 filters).
+6. Changed probability to keep parameters in convolutional layers.
+7. Reduced number of filters and added extra dropout layers after pooling_layers and increased probability to keep weights on convolutional, pooling and fully connedted layers.
+
+So, basically I started with a simple networks that overfits quickly the training set, increased the number of free paramenters in the network and run for many epochs, but then I included regularization in a simpler model to increase generalization. I also had noticed that the harder you regularize the more epochs in takes more epochs to train the network but improves generalization.
+
 
 
 
@@ -282,5 +294,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTQ5NzgyMV19
+eyJoaXN0b3J5IjpbLTEwNTg1NzEwNzRdfQ==
 -->
