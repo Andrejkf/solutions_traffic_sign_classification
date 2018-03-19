@@ -67,16 +67,7 @@ The specific goals / steps of this project are the following:
 * Summarize the results with a written report
 
 
-[//]: # (Image References)
 
-[image1]: ./other_images/report_1.png "Sample images from training dataset"
-[image2]: ./other_images/report_2.png "training and validation datasets histograms"
-[image3]: ./other_images/report_3.png "test set histogram"
-[image4]: ./other_images/report_4.png "contrast enhacement"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ## Rubric Points
 Here I will consider the *rubric points* individually and describe how I addressed each point in my implementation.  
@@ -264,6 +255,17 @@ For the second image ...
 Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
+---
+[//]: # (Image References)
+
+[image1]: ./other_images/report_1.png "Sample images from training dataset"
+[image2]: ./other_images/report_2.png "training and validation datasets histograms"
+[image3]: ./other_images/report_3.png "test set histogram"
+[image4]: ./other_images/report_4.png "contrast enhacement"
+[image5]: ./other_images/report_5.png "contrast enhacement"
+[image6]: ./examples/placeholder.png "Traffic Sign 3"
+[image7]: ./examples/placeholder.png "Traffic Sign 4"
+[image8]: ./examples/placeholder.png "Traffic Sign 5"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzQ0NTE1M119
+eyJoaXN0b3J5IjpbLTU4MTU3ODAxOV19
 -->
