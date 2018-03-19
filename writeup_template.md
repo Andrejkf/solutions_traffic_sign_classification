@@ -328,6 +328,14 @@ Here are the results of the prediction:
 
 As result the model had 4/10 correct predicted classes, that is, 40% of accuracy in the new images.
 
+From the test set the minimum accuracy performance obtained was 93% in a total  of 12630 examples. By the other hand, the accuracy on the mini data sample set from the downloaded images after running just one time was 4/10 = 40% in a total of 10 images.
+
+Notice that the amount of image examples from test set is bigger that the amount of examples in the mini data set of new downloaded images in a ratio of 12360/10 = 1236.
+
+Reader migth be tempted to make a performance comparison between *test* and *new images* data sets. In fact, you can be tempted to concluded that *the probability that **the accuracy of 93% obtained in the test set** to characterize the network performance is higher than the probability that **the accuracy of 40% obtained on the new mini set***.
+However, that asumption might not be true and is preferred not to generate affirmations before studying better the test data set and the new images mini data set.
+
+In addition, author does not compromise to any conclusion about this attempt to compare *test_set* with *new_imags_mini_dataset*.
 
 
 
@@ -411,5 +419,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY0MDczM119
+eyJoaXN0b3J5IjpbMTQ5MTI2OTM5NF19
 -->
