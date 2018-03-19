@@ -297,7 +297,7 @@ The first 5 downloaded images are show below.
 * Image 5, with label: 19,Dangerous curve to the left. Was chosen also for being one of the commonless in the training set. Is the flipped verion of the downloaded image with label 20,Dangerous curve to the right. This image is expected to be misclasified too.
 
 The other 5 images were downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) and links to view then are shown below. They were chosen to be very difficult for me, as a human, to clasify them.
-<br/> ![image6][image18] ![alt text][image19]
+<br/> ![alt text][image18] ![alt text][image19]
 ![alt text][image20] ![alt text][image21] 
 ![alt text][image22] 
 
@@ -405,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzMzMDU0N119
+eyJoaXN0b3J5IjpbLTE2MzA2MDk2OTJdfQ==
 -->
