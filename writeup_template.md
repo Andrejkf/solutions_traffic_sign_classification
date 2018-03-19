@@ -393,18 +393,16 @@ Links
 
 
 
-[image18]: ./other_images/4.png  "model 4"
-[image19]: ./other_images/4.png "model 4"
-[image20]: ./other_images/4.png "model 4"
+[image18]: ./new_images_original/2_1.ppm  "Label: 2,Speed limit (50km/h)"
+[image19]: ./new_images_original/14_2.ppm "Label: 14,Stop"
+[image20]: ./new_images_original/25_1.ppm "model 4"
 [image21]: ./other_images/4.png "model 4"
 [image22]: ./other_images/4.png "model 4"
 [image23]: ./other_images/4.png "model 4"
 [image24]: ./other_images/4.png "model 4"
 [image25]: ./other_images/4.png "model 4"
 
-plt.figure()
-read_image('./new_images_original/2_1.ppm')
-plt.title('Label: 2,Speed limit (50km/h).')
+
 
 plt.figure()
 read_image('./new_images_original/14_2.ppm')
@@ -422,5 +420,5 @@ plt.figure()
 read_image('./new_images_original/35_1.ppm')
 plt.title('Label: 35,Ahead only')
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMzE3NjUyXX0=
+eyJoaXN0b3J5IjpbMjA4MDkxNDQ3M119
 -->
