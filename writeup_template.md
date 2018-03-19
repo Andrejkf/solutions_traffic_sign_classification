@@ -79,7 +79,7 @@ The specific goals / steps of this project are the following:
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ## Rubric Points
-Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
+Here I will consider the *rubric points* individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Files submitted
@@ -227,5 +227,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODcwNzM3Nl19
+eyJoaXN0b3J5IjpbLTU4MDExMjYxNF19
 -->
