@@ -372,7 +372,7 @@ Links
 
 [image13]: ./new_images_original/9_1.jpeg "Label: 9,No passing"
 [image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
-[image15]: ../new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
+[image15]: ./new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
 [image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
 [image17]: ./new_images_original/27_1.jpg "Label: 27,Pedestrians"
 
@@ -393,5 +393,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM3MDQ1MF19
+eyJoaXN0b3J5IjpbMTkzNzAxMDY0XX0=
 -->
