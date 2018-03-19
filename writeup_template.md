@@ -291,12 +291,12 @@ Links
 [image3]: ./other_images/report_3.png "test set histogram"
 [image4]: ./other_images/report_4.png "contrast enhacement"
 [image5]: ./other_images/report_5.png "zero-mean unit-variance"
-[image6]: ./other_images/report_5.png "zero-mean unit-variance"
+[image6]: ./other_images/2.png "model 1"
 
 [image7]: ./other_images/report_5.png "zero-mean unit-variance"
 
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ2MDM3OThdfQ==
+eyJoaXN0b3J5IjpbLTExNTI0MjUwMzZdfQ==
 -->
