@@ -113,6 +113,9 @@ Here we visualize the German Traffic Signs Dataset using the pickled files. Espe
 * In the third image: A histogram(with distribution of classes) for the test set.
  <br/>![alt text][image3]
 
+From the first figure (with 20 samples of training images) we can subjectively notice that there is a brightness difference among the sampled images. Also, in some of these, a high rate brightness variation is present (e.g. image located in third row, third column). This suggest brightness and contrast transfomation would be a good candidate for data preprocessing.
+
+From data set histograms (training,validation and test) unbalanced data is present. So data augmentation could be a solution to increase model generalization. More specifically to increase the number of feature examples for the less common classes.
 
 ### Design and Test a Model Architecture
 
@@ -230,5 +233,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjY0OTExMl19
+eyJoaXN0b3J5IjpbMzc1NjQzNjYwXX0=
 -->
