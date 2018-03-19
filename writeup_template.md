@@ -372,13 +372,12 @@ Links
 
 [image13]: ./new_images_original/9_1.jpeg "Label: 9,No passing"
 [image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
-[image15]: ../new_images_original/20_1.jpeg "model 4"
-[image16]: ./other_images/4.png "model 4"
+[image15]: ../new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
+[image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
 [image17]: ./other_images/4.png "model 4"
 
 
-read_image('./new_images_original/20_1.jpeg')
-plt.title('Label: 20,Dangerous curve to the right.')
+
 
 plt.figure()
 read_image('./new_images_original/20_1_flipped.jpeg')
@@ -403,5 +402,5 @@ plt.show()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDgyNjhdfQ==
+eyJoaXN0b3J5IjpbLTI3Mjg3NTAyNl19
 -->
