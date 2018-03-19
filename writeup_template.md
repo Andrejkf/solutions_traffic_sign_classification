@@ -342,7 +342,11 @@ In addition, author does not compromise to any conclusion about this attempt to 
 
 In this subsection top softmax probabilities for each new image found on the web are displayed:
 
-
+<br/> ![alt text][image23] ![alt text][image24]
+![alt text][image25] ![alt text][image26] 
+![alt text][image27] ![alt text][image28] ![alt text][image29]
+![alt text][image30] ![alt text][image31] 
+![alt text][image32] 
 
 ##### Model Certainty- Softmax Probabilities discussion.
 1. Notice that the fact that the model predicts a class label with probability 1 does not necessarily implies that the clasification is correct, it might be wrong. 
@@ -418,5 +422,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NzA3OTM3XX0=
+eyJoaXN0b3J5IjpbMTE3MTUwMjE0MF19
 -->
