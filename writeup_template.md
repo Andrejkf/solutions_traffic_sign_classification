@@ -249,7 +249,8 @@ With the following hyper parameters values:
 
 ##### Description about how the model was trained.
 To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During hyper parameters tunning just the training set was used.
-* The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy was stucked after 
+* The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy did not imporved after many epochs. So a value of 0.001 was set up.
+* Then the 
 
 
 
@@ -408,5 +409,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTE2MTc3OV19
+eyJoaXN0b3J5IjpbLTE0NTA3ODQxNzBdfQ==
 -->
