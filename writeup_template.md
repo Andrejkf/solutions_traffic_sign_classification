@@ -316,14 +316,7 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 
 
 
-### Test a Model on New Images
 
-#### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
-
-Here are five German traffic signs that I found on the web:
-
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
 
 The first image might be difficult to classify because ...
 
@@ -405,5 +398,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2MDk2OTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzYxMTY5NzNdfQ==
 -->
