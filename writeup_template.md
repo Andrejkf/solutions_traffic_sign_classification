@@ -72,7 +72,7 @@ The specific goals / steps of this project are the following:
 [image1]: ./other_images/report_1.png "Sample images from training dataset"
 [image2]: ./other_images/report_2.png "training and validation datasets histograms"
 [image3]: ./other_images/report_3.png "test set histogram"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
+[image4]: ./other_images/report_4.png "test set histogram"
 [image5]: ./examples/placeholder.png "Traffic Sign 2"
 [image6]: ./examples/placeholder.png "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
@@ -136,7 +136,9 @@ By the other hand, even if the input data set was unbalanced it was wanted to [c
 ##### Step 2.1.1: Contrast Limited Adaptive Histogram Equalization (CLAHE).
 [Contrast Limited Adaptive Histogram Equalization](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html) was used to get a better contrast enhancement than the one gotten with global histogram equalization.
 
+A sample of 5 images is shown. It contains the original images and the corresponding images after contrast enhacement is applied.
 
+<br/>![alt text][image4]
 
 
 
@@ -263,5 +265,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzk2ODQxN119
+eyJoaXN0b3J5IjpbLTE3MTcwNzQyMzVdfQ==
 -->
