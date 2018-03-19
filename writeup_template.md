@@ -363,14 +363,18 @@ In this subsection top softmax probabilities for each new image found on the web
 
 ### Step 4: Visualizing the Neural Network's State with Test Images.
 
+On this section a visualization of the filters activation is done but not the one with the activation maps.
+
+Withal, the author is working in extracting the feature maps from hidden layers just to check hidden layers networks response.
+An stimulus image is used to get the filters response.
+
 
 
 
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
----
-Links
-[content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
+
+
 
 ---
 [//]: # (Image References)
@@ -420,6 +424,7 @@ Links
 
 [image33]: ./other_images/report_11.png "sofmax img1"
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDY3MjQzOV19
+eyJoaXN0b3J5IjpbLTExNTAwOTk1MDldfQ==
 -->
