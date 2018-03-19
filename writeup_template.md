@@ -287,7 +287,7 @@ A total of 10 new images were used for further testing purposes. Some of them wh
 The first 5 downloaded images are show below.
 ![]()
 
-![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
+![test image size](./new_images_original/9_1.jpeg){:height="50%" width="50%"}
 
 <br/>![alt text | 50x50][image13] 
 ![alt text][image14] ![alt text][image15] 
@@ -398,5 +398,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg1NTgzMDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNTU1MTg3NDRdfQ==
 -->
