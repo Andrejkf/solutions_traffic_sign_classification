@@ -262,10 +262,13 @@ Links
 [image2]: ./other_images/report_2.png "training and validation datasets histograms"
 [image3]: ./other_images/report_3.png "test set histogram"
 [image4]: ./other_images/report_4.png "contrast enhacement"
-[image5]: ./other_images/report_5.png "contrast enhacement"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image5]: ./other_images/report_5.png "zero-mean unit-variance"
+[image6]: ./other_images/report_5.png "zero-mean unit-variance"
+
+[image7]: ./other_images/report_5.png "zero-mean unit-variance"
+
+[image8]: ./other_images/report_5.png "zero-mean unit-variance"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTU3ODAxOV19
+eyJoaXN0b3J5IjpbMjMzNzIxODE0XX0=
 -->
