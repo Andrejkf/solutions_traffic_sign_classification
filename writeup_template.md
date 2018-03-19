@@ -71,7 +71,7 @@ The specific goals / steps of this project are the following:
 
 [image1]: ./other_images/report_1.png "Sample images from training dataset"
 [image2]: ./other_images/report_2.png "training and validation datasets histograms"
-[image3]: ./other_images/report_2.png "test set histogram"
+[image3]: ./other_images/report_3.png "test set histogram"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
 [image5]: ./examples/placeholder.png "Traffic Sign 2"
 [image6]: ./examples/placeholder.png "Traffic Sign 3"
@@ -230,5 +230,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzc2OTc5OV19
+eyJoaXN0b3J5IjpbMTkxNjY0OTExMl19
 -->
