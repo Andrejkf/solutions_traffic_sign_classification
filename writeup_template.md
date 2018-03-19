@@ -376,6 +376,18 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 * Also, basic shapes are shown, like an **inverted L** in Filter2 or a **90 degrees clockwise rotated T** in Filter3.
 * It would be interesting compare the generated shapes with the ones from the [game of life](http://web.stanford.edu/~cdebs/GameOfLife/).
 
+## Conclusion
+This project is succesful to clasiffy images from [German Traffic Signs data set](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) with a minimum accuracy of 93% in validation set. However, is very clear that the model robustness can be strengtened by increasing the number of commonless examples in the data set.
+
+#### To improve:
+
+* During model architecture design It was noticed that the networks highly tends to overfit the training data. So stronger regularization is required (e.g. [cross-validation](http://ai.stanford.edu/~ang/papers/cv-final.pdf) or [k-cross-validation](http://leitang.net/papers/ency-cross-validation.pdf)).
+* The data mean and variance where changing as data flew upwards the network and many gradients were killed during backpropagation, so [batch normalization](https://arxiv.org/abs/1502.03167) is highly encouraged to be included.
+* Other model architectures should be tested to compare with solution proposed ( e.g. [VGGNet](https://arxiv.org/abs/1409.1556), [GoogLeNet](https://arxiv.org/abs/1409.4842), a [multiscale CNN](https://arxiv.org/abs/1607.07155)).
+* Database should be balanced to increase the number of commonless examples. (e.g. [Data augmentation](https://arxiv.org/abs/1703.08383)).
+* [Feature maps](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) should be shown, not just the filters used in cross-correlation at receptive fields.
+
+
 
 ---
 [//]: # (Image References)
@@ -427,5 +439,5 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyNTkxMzFdfQ==
+eyJoaXN0b3J5IjpbMTIxNzY3NzQ0Ml19
 -->
