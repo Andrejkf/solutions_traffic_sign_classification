@@ -395,8 +395,8 @@ Links
 [image18]: ./other_images/report_original_2_1.png  "Label: 2,Speed limit (50km/h)"
 [image19]: ./other_images/report_original_14_2.png "Label: 14,Stop"
 [image20]: ./other_images/report_original_25_1.png "Label: 25,Road work"
-[image21]: ./other_images/ "Label: 29,Bicycles crossing"
-[image22]: ./other_images/ "Label: 35,Ahead only"
+[image21]: ./other_images/report_original_29_1.png "Label: 29,Bicycles crossing"
+[image22]: ./other_images/report_original_35_1.png "Label: 35,Ahead only"
 
 
 [image23]: ./other_images/4.png "model 4"
@@ -405,5 +405,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY2NDg1ODZdfQ==
+eyJoaXN0b3J5IjpbLTM0NzMzMDU0N119
 -->
