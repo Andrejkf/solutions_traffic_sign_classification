@@ -119,6 +119,19 @@ From data set histograms (training,validation and test) unbalanced data is prese
 
 ### 2. Design and Test a Model Architecture
 #### Step 2.1: Data preprocessing
+After data exploration the follwing observations were taken into account to preprocess the data:
+    
+* Original input pixel image values range as usually was (0,255).
+* The brighness among images use to highly variable.
+* Some images have shown abrupt changes in brightness locally (very variable brightness in a single image).
+* Data set was unbalanced.
+
+This is the selected preprocessing approach:
+    
+Initially, it was considered to use gray scale images to have a more homogeneous contrast variation among the whole images dataset.
+However, the three chanel colors representation was kept and all data preprocessing was done channel by channel. The previous idea was just an attempt to keep as much amount of possible usefull information on input data that the network might use during the weights tunning process.
+In addition, to reduce abrupt changes present in some images it was decided to used histogram equalization by image sub-sections instead of using a global histogram equalization ([Click here for further information](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html)).
+By the other hand, even if the input data set was unbalanced it was wanted to [challenge the model generalization ability with unbalanced information](http://ieeexplore.ieee.org/document/6677603/) and penalized overfitting by using a regularization technique. More specifically, weights dropout during the training process.
 
 
 As a first step, I decided to convert the images to grayscale because ...
@@ -233,5 +246,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc3MDc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTI5MDQxNTEzNV19
 -->
