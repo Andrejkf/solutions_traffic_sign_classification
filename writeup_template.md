@@ -154,7 +154,7 @@ Very general model tunning process followed is described as follows:
 
 So, basically I started with a simple networks that overfits quickly the training set, increased the number of free paramenters in the network and run for many epochs, but then I included regularization in a simpler model to increase generalization. I also had noticed that the harder you regularize the more epochs in takes more epochs to train the network but improves generalization.
 
-
+![alt text][image6] ![alt text][image7]
 
 
 
@@ -298,5 +298,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1ODgzNDU2XX0=
+eyJoaXN0b3J5IjpbLTU3MTE2ODUxM119
 -->
