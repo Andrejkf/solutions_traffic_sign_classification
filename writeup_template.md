@@ -251,6 +251,8 @@ Finally, the main goal was to get a model as simple as possible. For that reason
 
 
 
+
+
 As a first step, I decided to convert the images to grayscale because ...
 
 Here is an example of a traffic sign image before and after grayscaling.
@@ -396,5 +398,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQ0NTc4Ml19
+eyJoaXN0b3J5IjpbMTA0MzY0MTU0Ml19
 -->
