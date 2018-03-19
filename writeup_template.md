@@ -168,6 +168,10 @@ So, basically I started with a simple networks that overfits quickly the trainin
 
 
 
+
+
+
+
 As a first step, I decided to convert the images to grayscale because ...
 
 Here is an example of a traffic sign image before and after grayscaling.
@@ -294,5 +298,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzg2ODI0XX0=
+eyJoaXN0b3J5IjpbNzA1ODgzNDU2XX0=
 -->
