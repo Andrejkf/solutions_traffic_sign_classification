@@ -326,7 +326,7 @@ Here are the results of the prediction:
 | 35,Ahead only			| 9,No passing  
 
 
-ad 4/10 predicted classes, that is 40% of accuracy in the new images.
+As result the model had 4/10 correct predicted classes, that is, 40% of accuracy in the new images.
 
 
 
@@ -411,5 +411,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0OTI4OTc0XX0=
+eyJoaXN0b3J5IjpbLTE0ODY0MDczM119
 -->
