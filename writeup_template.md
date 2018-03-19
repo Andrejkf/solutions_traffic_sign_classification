@@ -289,6 +289,7 @@ The first 5 downloaded images are show below.
 <br/>![alt text | 50x50][image13] ![alt text][image17]
 ![alt text][image14] ![alt text][image15] 
 ![alt text][image16] 
+
 * Image with label: 9,No passing. Was selected because is not in he common position of the images from training set. So even if that image class was very common on the training set given the fact that data augmentation was not done is expected to misclasify this image.
 * Image with label: 14,Stop. Was taken because semantically is one of the most important traffic signs on the road. The image was selected with high brigtness to test the importance of including contrast enhancement during preprocessing images. This one is expected to be correctly classified.
 * Image with label: 20,Dangerous curve to the right. Was chosen for being one with less common class type in the training set. This image is expected to be misclassifed.
@@ -395,5 +396,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTI5OTExXX0=
+eyJoaXN0b3J5IjpbMjk4NzkzNzM3XX0=
 -->
