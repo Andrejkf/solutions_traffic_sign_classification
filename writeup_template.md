@@ -308,8 +308,8 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
 Here are the results of the prediction:
-<br/>expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
-<br/>new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
+<br/> expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
+<br/> new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
 
 
 | Image			        |     Prediction	        					| 
@@ -411,5 +411,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwNjI4OTVdfQ==
+eyJoaXN0b3J5IjpbMTMwMjcyMjc2NV19
 -->
