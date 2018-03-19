@@ -250,6 +250,8 @@ With the following hyper parameters values:
 ##### Description about how the model was trained.
 The following cosiderations were made during training stage:
 
+* In general 
+
 * To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During initial hyper parameters tunning just the training and validation sets were used.
 * The training set was shuffled every epoch.
 * The first one to tune was the learning rate, using initially values close to 0.005 with a high error, then used low values close to 0.0005 but the training accuracy did not imporved after many epochs. So a value of 0.001 was set up.
@@ -261,7 +263,8 @@ The following cosiderations were made during training stage:
 * The objective function selected was the mean error rate between logits and labels.
 *After training was finished, model parameters where saved for further model performance evaluation.
 
-The final mdoel resul
+The final mdoel results were:
+
 
 
 
@@ -420,5 +423,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ0NDI2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjM4NjUxOTJdfQ==
 -->
