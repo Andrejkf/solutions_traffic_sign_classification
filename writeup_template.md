@@ -417,17 +417,20 @@ Links
 
 
 [image23]: ./other_images/report_11.png "sofmax img1"
-[image24]: ./other_images/4.png "model 4"
-[image25]: ./other_images/4.png "model 4"
-[image26]: ./other_images/4.png "model 4"
-[image27]: ./other_images/4.png "model 4"
-[image28]: ./other_images/4.png "model 4"
-[image29]: ./other_images/4.png "model 4"
-[image30]: ./other_images/4.png "model 4"
-[image31]: ./other_images/4.png "model 4"
-[image32]: ./other_images/4.png "model 4"
+[image24]: ./other_images/report_12.png "sofmax img2"
+[image25]: ./other_images/report_13.png "sofmax img3"
+[image26]: ./other_images/report_14.png "sofmax img4"
+[image27]: ./other_images/report_15.png "sofmax img5"
+[image28]: ./other_images/report_16.png "sofmax img6"
+[image29]: ./other_images/report_17.png "sofmax img7"
+[image30]: ./other_images/report_18.png "sofmax img8"
+[image31]: ./other_images/report_19.png "sofmax img9"
+[image32]: ./other_images/report_20.png "sofmax img10"
 
+
+
+[image33]: ./other_images/report_11.png "sofmax img1"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYyODc4MDRdfQ==
+eyJoaXN0b3J5IjpbMTQ5Mzk5Mzk1Ml19
 -->
