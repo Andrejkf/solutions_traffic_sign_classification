@@ -373,7 +373,7 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 <br/> ![alt text][image34]
 
 * It is interesting to notice how Filter2 and Filter3 show high number of weights. 
-* Also, 
+* Also, basic shapes are shown, like an inverted **L** in Filter2 or a 90 degrees c rotated T
 
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
@@ -430,5 +430,5 @@ And the Weigts for filters in Convolutional layer 2 are shown:
 [image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzM1MTA1N119
+eyJoaXN0b3J5IjpbLTkxODgwMjYwNF19
 -->
