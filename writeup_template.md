@@ -370,11 +370,37 @@ Links
 
 [image12]: ./other_images/report_6.png "Final model trained"
 
-[image13]: ./other_images/4.png "model 4"
+[image13]: ./new_images_original/9_1.jpeg "model 4"
 [image14]: ./other_images/4.png "model 4"
 [image15]: ./other_images/4.png "model 4"
 [image16]: ./other_images/4.png "model 4"
 [image17]: ./other_images/4.png "model 4"
+
+
+plt.figure()
+read_image('./new_images_original/9_1.jpeg')
+plt.title('Label: 9,No passing.')
+
+plt.figure()
+read_image('./new_images_original/14_1.jpeg')
+plt.title('Label: 14,Stop.')
+
+plt.figure()
+read_image('./new_images_original/20_1.jpeg')
+plt.title('Label: 20,Dangerous curve to the right.')
+
+plt.figure()
+read_image('./new_images_original/20_1_flipped.jpeg')
+plt.title('Label: 19,Dangerous curve to the left. Flipped version of previous image.')
+
+plt.figure()
+read_image('./new_images_original/27_1.jpg')
+plt.title('Label: 27,Pedestrians')
+
+plt.show()
+
+
+
 [image18]: ./other_images/4.png "model 4"
 [image19]: ./other_images/4.png "model 4"
 [image20]: ./other_images/4.png "model 4"
@@ -386,5 +412,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjQwNDEwNF19
+eyJoaXN0b3J5IjpbLTM1OTYyNjk1Nl19
 -->
