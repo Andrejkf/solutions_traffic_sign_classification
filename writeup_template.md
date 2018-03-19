@@ -70,7 +70,7 @@ The specific goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./other_images/report_1.png
-[image2]: ./examples/grayscale.jpg "Grayscaling"
+[image2]: ./other_images/report_1.png "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
 [image5]: ./examples/placeholder.png "Traffic Sign 2"
@@ -107,9 +107,11 @@ On this German Traffic Signs dataset we have:
 
 Here we visualize the German Traffic Signs Dataset using the pickled files. Especifically we are displaying:
 * In this first figure: A sample of 20 images from the training set.
+ ![alt text][image1]
 * In the seccond figure: A histogram(with distribution of classes) for the training and the validation set.
+ ![alt text][image2]
 * In the third image: A histogram(with distribution of classes) for the test set.
-
+ ![alt text][image3]
 
 
 ### Design and Test a Model Architecture
@@ -228,5 +230,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODgzNzQ1NF19
+eyJoaXN0b3J5IjpbLTE3ODQxMDk1NzVdfQ==
 -->
