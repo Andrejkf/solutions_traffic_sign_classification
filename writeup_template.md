@@ -285,7 +285,7 @@ A total of 10 new images were used for further testing purposes. Some of them wh
 
 
 The first 5 downloaded images are show below.
-<img src="https://github.com/Andrejkf/solutions_traffic_sign_classification/blob/master/other_images/report_4.png" width="48">
+<img src="./" width="48">
 <br/>![alt text | 50x50][image13] 
 ![alt text][image14] ![alt text][image15] 
 ![alt text][image16] ![alt text][image17]
@@ -372,7 +372,7 @@ Links
 
 [image12]: ./other_images/report_6.png "Final model trained"
 
-[image13]: ./new_images_original/9_1.jpeg "Label: 9,No passing"
+[image13]: ./new_images_original/9_1.jpeg width "Label: 9,No passing"
 [image14]: ./new_images_original/14_1.jpeg "Label: 14,Stop"
 [image15]: ./new_images_original/20_1.jpeg "Label: 20,Dangerous curve to the right."
 [image16]: ./new_images_original/20_1_flipped.jpeg "Flipped version of previous image"
@@ -384,7 +384,7 @@ Links
 
 
 
-[image18]: ./other_images/4.png "model 4"
+[image18]: ./other_images/4.png  "model 4"
 [image19]: ./other_images/4.png "model 4"
 [image20]: ./other_images/4.png "model 4"
 [image21]: ./other_images/4.png "model 4"
@@ -395,5 +395,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDg0Nzg1MV19
+eyJoaXN0b3J5IjpbMjY1OTE1NTc3XX0=
 -->
