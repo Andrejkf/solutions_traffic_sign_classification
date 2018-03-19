@@ -247,10 +247,9 @@ With the following hyper parameters values:
 
 **Note**: The selected optimization algoritm was [Adam](https://arxiv.org/pdf/1412.6980.pdf).
 
-##### Description about how the model was trained.
+##### Description about how the final model was trained.
 The following cosiderations were made during training stage:
 
-* In general LeNet-5 was chosen. 
 
 * To train the model the initial batch size was 128 but changed to 256 with out any GPU/CPU/RAM memory problems. During initial hyper parameters tunning just the training and validation sets were used.
 * The training set was shuffled every epoch.
@@ -423,5 +422,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTc2MjA0MV19
+eyJoaXN0b3J5IjpbLTY1MDM0NTU2OV19
 -->
