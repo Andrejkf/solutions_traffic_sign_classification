@@ -416,11 +416,18 @@ Links
 [image22]: ./other_images/report_original_35_1.png "Label: 35,Ahead only"
 
 
-[image23]: ./other_images/4.png "model 4"
+[image23]: ./other_images/report_11.png "sofmax img1"
 [image24]: ./other_images/4.png "model 4"
 [image25]: ./other_images/4.png "model 4"
+[image26]: ./other_images/4.png "model 4"
+[image27]: ./other_images/4.png "model 4"
+[image28]: ./other_images/4.png "model 4"
+[image29]: ./other_images/4.png "model 4"
+[image30]: ./other_images/4.png "model 4"
+[image31]: ./other_images/4.png "model 4"
+[image32]: ./other_images/4.png "model 4"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTUwMjE0MF19
+eyJoaXN0b3J5IjpbLTE3MjYyODc4MDRdfQ==
 -->
