@@ -286,7 +286,7 @@ A total of 10 new images were used for further testing purposes. Some of them wh
 
 The first 5 downloaded images are show below.
 
-<br/>![alt text | 50x50][image13] ![alt text][image17]
+<br/>![alt text][image13] ![alt text][image17]
 ![alt text][image14] ![alt text][image15] 
 ![alt text][image16] 
 
@@ -298,11 +298,16 @@ The first 5 downloaded images are show below.
 
 The other 5 images were downloaded from the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) and are shown below. They were chosen to be very difficult for me, as a human, to clasify them.
 
+<br/>![alt text][image18] ![alt text][image19]
+![alt text][image20] ![alt text][image21] 
+![alt text][image22] 
+
 * Image 6, with label: 2,Speed limit (50km/h). Was selected because the image was taken while on the road and some pixels seem to be shifted. It is one of the most common images on the data set so it is expected that it should be correctly classified.
 * Image 7, with label: 14,Stop. Was selected because exhibits a very variable level of brigthness among the different pixels. A stop signal is one of the most important signals to be detected.
 * Image 8, with label: 25,Road work. Was selected because is one of the classes with the low level number of examples in the training set.
 * Image 9,  with label:  29,Bicycles crossing. Was chosen becuase as previously mentioned, everything related to pedestrians or human people involved is a priority. Also the image is not easy to identify by a human eye given the fact it has a high brightness level.
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
+
 
 
 
@@ -406,5 +411,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NzkyMTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0NDIzMjk0NDZdfQ==
 -->
