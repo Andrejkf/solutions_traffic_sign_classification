@@ -91,7 +91,7 @@ Here I will consider the *rubric points* individually and describe how I address
 
 
 
-### Data Set Summary & Exploration
+### 1. Data Set Summary & Exploration
 
 I used python numpy library to calculate summary statistics of the traffic
 signs data set:
@@ -103,7 +103,7 @@ On this German Traffic Signs dataset we have:
 @ The number of testing examples is: 12630
 @ The shape of a traffic sign image is: (32, 32, 3)
 @ The number of unique classes/labels in the data set is: 43.
-#### 2. Exploratory visualization on the dataset.
+#### Exploratory visualization on the dataset.
 
 Here we visualize the German Traffic Signs Dataset using the pickled files. Especifically we are displaying:
 * In this first figure: A sample of 20 images from the training set.
@@ -233,5 +233,5 @@ Links
 [content of this repository]: https://github.com/Andrejkf/solutions_traffic_sign_classification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NjQzNjYwXX0=
+eyJoaXN0b3J5IjpbMTUzNDg4NTMyM119
 -->
