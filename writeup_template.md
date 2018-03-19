@@ -268,7 +268,7 @@ The final model results at epoch 50 were:
 -   validation set accuracy of 0.939 = 939%
 -   test set accuracy of 0.93 = 93%
 
-Bellow the image
+Bellow the final model setup training and validation accuracy are displayed:
 <br/>![alt text][image12]
 
 
@@ -425,5 +425,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc5OTYwNjBdfQ==
+eyJoaXN0b3J5IjpbLTM3ODk4ODA4MV19
 -->
