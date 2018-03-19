@@ -271,7 +271,7 @@ The final model results at epoch 50 were:
 Bellow the final model setup training and validation accuracy are displayed:
 <br/>![alt text][image12]
 
-It is important to note that convolutional layers were selected because cross-correlations done at receptive fields generates 
+It is important to note that convolutional layers were selected because cross-correlations done at receptive fields generate activation maps that detect patterns as 
 
 
 
@@ -426,5 +426,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzk2MTExMl19
+eyJoaXN0b3J5IjpbMTc0OTM1MzYxN119
 -->
