@@ -308,7 +308,7 @@ The other 5 images were downloaded from the [German Traffic Sign Recognition Ben
 * Image 10, with label: 35,Ahead only. Was selected as an attempt to push the network to misclasify it.
 
 expected\_labels\_new:  \[ 2  9 14 14 19 20 25 27 29 35\]
-new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
+new_predicted values: \   [ 2 41 14 18 40 41 25 24 29  9\]
 
 
 | Image			        |     Prediction	        					| 
@@ -317,9 +317,9 @@ new_predicted values: \[ 2 41 14 18 40 41 25 24 29  9\]
 | 9,No passing     			| 41,End of no passing 										|
 | 14,Stop				| 14,Stop											|
 | 14,Stop      		| 18,General caution Road					 				|
-| Slippery Road			| Slippery Road  
-| Stop Sign      		| Stop sign   									| 
-| U-turn     			| U-turn 										|
+| 19,Dangerous curve to the left			| 40,Roundabout mandatory Road  
+| 20,Dangerous curve to the right      		| 41,End of no passing sign   									| 
+|25,Road work     			| U-turn 										|
 | Yield					| Yield											|
 | 100 km/h	      		| Bumpy Road					 				|
 | Slippery Road			| Slippery Road  
@@ -410,5 +410,5 @@ Links
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMDMwNjQ0XX0=
+eyJoaXN0b3J5IjpbLTU1NTc1MjU2MF19
 -->
