@@ -367,8 +367,10 @@ On this section a visualization of the filters activation is done but not the on
 
 Withal, the author is working in extracting the feature maps from hidden layers just to check hidden layers networks response.
 An stimulus image is used to get the filters response.
+<br/> ![alt text][image43] 
 
-
+And the Filters for Convolutional layer weights are shown:
+<br/> ![alt text][image43] 
 
 
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
@@ -423,8 +425,8 @@ An stimulus image is used to get the filters response.
 
 
 [image33]: ./other_images/report_41.png "stimuli1"
-[image34]: ./other_images/report_11.png "Filters conv 2"
+[image34]: ./other_images/report_42.png "Filters conv 2"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODI3NTkwOF19
+eyJoaXN0b3J5IjpbMTYxMzIzMjA2NF19
 -->
