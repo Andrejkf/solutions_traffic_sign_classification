@@ -139,7 +139,7 @@ So we had closer zero-mean unit-variance input data. Also, a sample of the image
 #### Step 2.2: Solution Aproach.
 Used a modified version of [LeNet-5](http://yann.lecun.com/exdb/lenet/).
 
-As starting reference *LeNet-5 from laboratory* and a [convolutional network proposed by Aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py) were used.
+As starting reference **LeNet-5 from laboratory** and a [convolutional network proposed by Aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py) were used.
 Then was modified the architecture changing and/or adding network parameters across the whole model.
 
 Very general model tunning process followed is described as follows:
@@ -294,5 +294,5 @@ Links
 [image8]: ./other_images/report_5.png "zero-mean unit-variance"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzA0NTIyNl19
+eyJoaXN0b3J5IjpbMTI0MTA2NjQyMF19
 -->
